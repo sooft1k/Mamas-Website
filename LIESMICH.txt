@@ -1,0 +1,27 @@
+MAMAS WEBSITE — Danjela Gaba Architektur
+=========================================
+
+So startest du:
+- Alle Dateien müssen zusammen in EINEM Ordner bleiben.
+- Ordner "bilder" mit den Fotos daneben legen (favicon.png, eingang.jpeg,
+  wohnhaus.jpeg, gewerbeobjekt.JPEG, Profilbild.png sowie die Unterordner
+  einfamilienhäuser/, wohnhäuser/, gewerbeobjekte/).
+- index.html im Browser öffnen (Doppelklick) zum Testen.
+
+NOCH ZU ERLEDIGEN:
+1. Domain: überall steht der Platzhalter https://www.danjela-gaba.at
+   -> in allen Dateien durch die echte Domain ersetzen (Suchen & Ersetzen).
+2. projekt-haus-am-feldrand.html: Platzhalter mit "▼"-Kommentaren befüllen
+   (Wohnfläche in m², Beschreibungstext, weitere Fotos/Grundrisse).
+   Danach die Datei für die anderen zwei Projekte kopieren.
+3. Titel-Check (AT): "Architekt/in" ist geschützter ZT-Titel — falls keine
+   ZT-Befugnis besteht, Formulierungen kurz gegenprüfen.
+4. "40+ Projekte" vs. 3 gezeigte: entweder mehr zeigen oder Zahl anpassen.
+
+Neu in dieser Version:
+- eigene SEO-/Social-Tags + Strukturdaten auf jeder Seite
+- sitemap.xml + robots.txt
+- Prozess-Ablauf + FAQ auf der Leistungen-Seite
+- Projekt-Detailseite als Vorlage
+- Kontaktformular ohne Weiterleitung (Inline-Rückmeldung)
+- schnelleres Font-Laden, Barrierefreiheit, sanfte Seitenübergänge
